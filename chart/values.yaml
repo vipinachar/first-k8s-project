@@ -1,0 +1,7 @@
+appName: explorecalifornia.com
+serviceName: explorecalifornia-svc
+imageName: localhost:5000/explorecalifornia.com
+replicas: 1 
+port: 8083
+
+
